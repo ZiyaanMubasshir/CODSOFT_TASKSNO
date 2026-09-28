@@ -22,3 +22,18 @@ A simple calculator which calculates the grades and marks of students made using
 - Calculates the total marks.
 - Finds percentage.
 - Grades accordingly.
+
+## Task 3 - Student Course Registration System
+
+A Java-based course registration system.
+
+### Features
+- Displays available courses.
+- Allows students to register for courses.
+- Displays registered courses.
+- Allows students to drop courses.
+- Tracks available seats for courses.
+
+## Internship Tasks Completed
+
+All three required Java development tasks have been completed as part of the CodSoft Java Development Internship.
